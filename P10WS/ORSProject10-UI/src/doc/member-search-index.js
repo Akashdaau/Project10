@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.rays.dao","c":"RoleDAOImpl","l":"getDTOClass()"},{"p":"com.rays.dao","c":"RoleDAOImpl","l":"getWhereClause(RoleDTO, CriteriaBuilder, Root<RoleDTO>)","url":"getWhereClause(com.rays.dto.RoleDTO,javax.persistence.criteria.CriteriaBuilder,javax.persistence.criteria.Root)"},{"p":"com.rays.dao","c":"RoleDAOImpl","l":"RoleDAOImpl()","url":"%3Cinit%3E()"}]
